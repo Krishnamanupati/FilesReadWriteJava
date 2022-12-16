@@ -5,5 +5,6 @@
     <classes>
       <class name="com.Challege1.mavenProject.ProjectRun"/>
     </classes>
+
   </test> <!-- Test -->
 </suite> <!-- Suite -->
